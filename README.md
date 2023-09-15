@@ -22,6 +22,17 @@
   <li>SQL</li>
 </ol>
 
+## SCREEN SHOTS
+<div align="center">
+  <img src="https://raw.githubusercontent.com/griffin-k/Giving-Hands/main/about-Images/help1.png" alt="BOT SCREENSHOT">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/griffin-k/Giving-Hands/main/about-Images/help2.png" alt="BOT SCREENSHOT">
+</div>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/griffin-k/Giving-Hands/main/about-Images/help3.png" alt="BOT SCREENSHOT">
+</div>
+
 
 
 <h2 align="center">🔗 Contact and Social Media Accounts</h2>
